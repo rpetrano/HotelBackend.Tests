@@ -28,7 +28,7 @@ public static class HotelsTestData
         };
     }
 
-    // Returns TestData with Geolocations projected to 23033. See the GeometryExtensions class for more info.
+    // Returns TestData with Geolocations projected to 32633. See the GeometryExtensions class for more info.
     public static Point GetCurrentLocationMocked() =>
         (Point) GetCurrentLocation().ProjectTo(32633);
 
