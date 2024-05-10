@@ -1,0 +1,6 @@
+appsettings.json
+bin/
+obj/
+
+.vscode
+.fake

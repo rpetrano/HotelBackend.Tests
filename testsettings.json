@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "TestDatabase": "Server=localhost;Port=5432;Database=hotel_test;User Id=test;Password=test"
+  },
+  "TestApiKey": "1234567890"
+}
