@@ -3,7 +3,6 @@ using HotelBackend;
 using NUnit.Framework;
 using HotelBackend.Tests.Base;
 
-// TODO: Seperate files, seperate classes
 public class HotelRepositoryTests: BaseHotelRepositoryTests
 {
 
